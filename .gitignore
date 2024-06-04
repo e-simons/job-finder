@@ -4,6 +4,8 @@ secrets
 
 # Python
 __pycache__
+.python-version
+poetry.lock
 
 # MacOS
 .DS_Store
